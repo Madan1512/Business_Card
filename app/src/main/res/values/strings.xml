@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="role">Machine Learning | Android Developer | Data Analyst</string>
+    <string name="full_name">Madan Parameswaran</string>
+    <string name="profile_text1">"My Android Dev Journey "</string>
+    <string name="profile_text2">"Explore My GitHub Repos "</string>
+    <string name="profile_text3">Connect with Me on LinkedIn</string>
+</resources>
